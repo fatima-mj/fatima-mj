@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-### ⚡ I'm a data analyst based in London
+## ⚡ I'm a data analyst based in London
 
-### 👯 I'm an ambassador and confidence coach at CodeFirstGirls 
+## 👯 I'm currently an ambassador and confidence coach at CodeFirstGirls, where I devote my time to inspiring and motivating women to pursue careers in technology by educating them on how to begin coding and break into the field.
+
 
 <!--
 **fatima-mj/fatima-mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
