@@ -2,7 +2,7 @@
 
 #### ⚡ I'm a data analyst based in London
 
-##### 👯 I'm currently an ambassador and confidence coach at CodeFirstGirls, where I devote my time to inspiring and motivating women to pursue careers in technology by educating them on how to begin coding and break into the field.
+#### 👯 I'm currently an ambassador and confidence coach at CodeFirstGirls, where I devote my time to inspiring and motivating women to pursue careers in technology by educating them on how to begin coding and break into the field.
 
 
 <!--
